@@ -11,9 +11,9 @@ description:Student
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://www.iconfinder.com/icons/60499/avatar_boy_head_man_matthew_user_icon
 
-#
-# Flags below are optional
-#
+Code for the storage of image assets
+post_assets: images
+general_assets: images
 
 # Includes an icon in the footer for each username you enter
 footer-links:
