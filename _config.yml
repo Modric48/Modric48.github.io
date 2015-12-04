@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name:Tommo.E
+name: Tommo.E
 
 # Short bio or description (displayed in the header)
-description:Student
+description: Student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.iconfinder.com/icons/60499/avatar_boy_head_man_matthew_user_icon
+avatar: http://www.iconarchive.com/show/face-avatars-icons-by-hopstarter/Male-Face-E1-icon.html
 
 #Code for the storage of image assets
 post_assets: images
