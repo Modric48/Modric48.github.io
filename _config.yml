@@ -10,7 +10,6 @@ description: Student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://icons.iconarchive.com/icons/hopstarter/face-avatars/128/Male-Face-E1-icon.png
-
 #Code for the storage of image assets
 post_assets: images
 general_assets: images
@@ -54,7 +53,7 @@ baseurl: ""
 #
 
 markdown: redcarpet
-highlighter: pygments
+rouge: pygments
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
