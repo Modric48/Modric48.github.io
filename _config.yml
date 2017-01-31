@@ -1,3 +1,4 @@
+
 #
 # This file contains configuration flags to customize your site
 #
@@ -20,7 +21,8 @@ footer-links:
   facebook:
   flickr:
   github: barryclark/jekyll-now
-  instagram: linkedin  pinterest:
+  instagram: linkedin  
+  pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
