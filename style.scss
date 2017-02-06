@@ -18,9 +18,15 @@ html {
 }
 
 body {
-        background-image: url("bgdesert.jpg");
-   
-}  
+        background:#6699ff;
+   font: 18px/1.4 $helvetica;
+   colour: $darkGray
+
+}
+
+;
+
+
 table {
     border-collapse: collapse;
 }
@@ -28,23 +34,22 @@ table {
 table, th, td {
     border: 1px solid black;
 }
+
 .container {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-	#rcorners4 {
-    border-radius: 15px 50px 30px 5px;
+  border-radius: 15px 50px 30px 5px;
     background: #73AD21;
     padding: 20px; 
-    width: 200px;
-    height: 150px; 
-}
+    width: 100%;
+    height: 100%; 
 
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: #ff751a;
+  font-family: "times new roman";
   color: #0000ff;
   font-weight: bold;
 
